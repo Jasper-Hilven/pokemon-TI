@@ -1,6 +1,7 @@
 ## Pokemon Obsidian
 
-A game programmed during high school. 
+A game programmed during high school. Contains all pictures of the 151 pokemon in 32*32 bit, all stats, complete fighting engine
+with half of all the original attacks implemented and a not completed world. 
 
 ## Installation instructions
 
@@ -15,5 +16,8 @@ A game programmed during high school.
 9. Probably send a mail to jasperhilven@gmail.com if anything doesn't work ;) (I tested it with these files on an emulator succesfully so it can work :) )
 
 ## WABBITEMU movie
-The beginning of the game
+###The beginning of the game
 <img src="./movies/startup.gif" alt="term" width="800">
+
+###Walking and fighting
+<img src="./movies/first-walk.gif" alt="term" width="800">
